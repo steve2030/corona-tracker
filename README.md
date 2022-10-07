@@ -20,7 +20,7 @@ Built this app to share awareness to people of the world about this Pandemic! , 
 
 ## Run Locally
 
-- Run this command `git clone https://github.com/developer-junaid/Corona-Virus-Tracker.git`
+- Run this command `git`
 - You are now in the dev environment and you can play around
 
 ## Tech Stack
