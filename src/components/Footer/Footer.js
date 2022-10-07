@@ -26,7 +26,7 @@ function Footer() {
               </div>
               <div className="socials">
                 <a
-                  href="https://www.facebook.com/profile.php?id=100041078220896"
+
                   target="_blank"
                   rel="noopener noreferrer"
                 >
